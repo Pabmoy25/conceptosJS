@@ -28,7 +28,7 @@ document.write ("Año: "+ anioActual + "<br>");
 document.write ("Año: "+ anioActual);
 
 // ventanas emergentes
-//alert ("Esta es una prueba de ventana emergente");
+alert ("Esta es una prueba de ventana emergente");
 
 // graba una variable, siempre texto
 let color = prompt ("Ingrese un color");
